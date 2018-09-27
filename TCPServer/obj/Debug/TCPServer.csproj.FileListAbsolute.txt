@@ -1,0 +1,20 @@
+C:\Users\Marcin\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\Marcin\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Marcin\source\repos\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Marcin\source\repos\TCPServer\TCPServer\bin\Debug\DLLGramtoOunces.dll
+C:\Users\Marcin\source\repos\TCPServer\TCPServer\bin\Debug\DLLGramtoOunces.pdb
+C:\Users\Marcin\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+C:\Users\Marcin\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+C:\Users\Marcin\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Marcin\source\repos\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
+D:\School\Mandatory Assignment\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+D:\School\Mandatory Assignment\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+D:\School\Mandatory Assignment\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+D:\School\Mandatory Assignment\TCPServer\TCPServer\bin\Debug\DLLGramtoOunces.dll
+D:\School\Mandatory Assignment\TCPServer\TCPServer\bin\Debug\DLLGramtoOunces.pdb
+D:\School\Mandatory Assignment\TCPServer\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+D:\School\Mandatory Assignment\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+D:\School\Mandatory Assignment\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+D:\School\Mandatory Assignment\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+D:\School\Mandatory Assignment\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
